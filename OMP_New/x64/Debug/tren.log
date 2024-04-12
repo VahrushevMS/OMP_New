@@ -1,0 +1,8 @@
+﻿  1.cpp
+C:\прога\tren\tren\1.cpp(6,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  main.cpp
+C:\прога\tren\tren\main.cpp(136,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  test.cpp
+C:\прога\tren\tren\test.cpp(34,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  tren.vcxproj -> C:\прога\tren\x64\Debug\tren.exe

@@ -1,0 +1,9 @@
+﻿  1.cpp
+C:\прога\OMP_New\OMP_New\1.cpp(6,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Child1and2.cpp
+  ComplexVector.cpp
+  main.cpp
+C:\прога\OMP_New\OMP_New\main.cpp(46,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  test.cpp
+  Создание кода...
+  OMP_New.vcxproj -> C:\прога\OMP_New\x64\Debug\OMP_New.exe

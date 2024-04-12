@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (fabrics.vcxproj, tren.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Child1and2.cpp
+  FabricsVec.vcxproj -> C:\прога\FabricsVec\x64\Debug\FabricsVec.exe
